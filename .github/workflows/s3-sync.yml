@@ -26,8 +26,4 @@ jobs:
 
       - name: Deploy content to S3 bucket
         run: aws s3 sync . s3://anjorin.me --delete
-        env:
-          AWS_DEFAULT_REGION: us-east-1 # Set the AWS region here
-          AWS_S3_ENDPOINT: anjorin.me.s3.us-east-1.amazonaws.com # Set the S3 endpoint for your region
-     
 
