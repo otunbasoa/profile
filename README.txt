@@ -1,17 +1,1 @@
-Meyawo Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
-
-Product Page: https://wwww.devcrud.com/
-
-Credits:
-
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
-
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
-
-	Other:
-		jQuery: 			(https://www.jquery.com)
-		Bootstrap: 			(https://www.getbootstrap.com)
-		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
-
+click this link https://medium.com/@otunba_soa/deploy-a-static-website-on-aws-s3-and-cloudfront-using-github-actions-46a275956756 to read my detailed breakdown on how deployed a static website on AWS S3 and CloudFront using the power of GitHub Actions 
