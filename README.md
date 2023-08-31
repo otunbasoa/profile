@@ -1,1 +1,1 @@
-click this link https://medium.com/@otunba_soa/deploy-a-static-website-on-aws-s3-and-cloudfront-using-github-actions-46a275956756 to read my detailed breakdown on how deployed a static website on AWS S3 and CloudFront using the power of GitHub Actions 
+click this link https://medium.com/@otunba_soa/deploy-a-static-website-on-aws-s3-and-cloudfront-using-github-actions-46a275956756 to read my detailed breakdown on how i deployed a static website on AWS S3 and CloudFront using the power of GitHub Actions 
